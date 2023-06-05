@@ -17,11 +17,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstoqueApp.Application", "EstoqueApp.Application\EstoqueApp.Application.csproj", "{30DE9773-DDB8-4BC3-8089-FC274CBC7AE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstoqueApp.Domain", "EstoqueApp.Domain\EstoqueApp.Domain.csproj", "{7006AB63-B081-4B9B-9541-8B36487F203A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstoqueApp.Domain", "EstoqueApp.Domain\EstoqueApp.Domain.csproj", "{7006AB63-B081-4B9B-9541-8B36487F203A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstoqueApp.Infra.Data.SqlServer", "EstoqueApp.Infra.Data.SqlServer\EstoqueApp.Infra.Data.SqlServer.csproj", "{37F9B17B-E583-4D86-A511-E760C7E9BA7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstoqueApp.Infra.Data.SqlServer", "EstoqueApp.Infra.Data.SqlServer\EstoqueApp.Infra.Data.SqlServer.csproj", "{37F9B17B-E583-4D86-A511-E760C7E9BA7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstoqueApp.Infra.Data.MongoDB", "EstoqueApp.Infra.Data.MongoDB\EstoqueApp.Infra.Data.MongoDB.csproj", "{3FFCE471-3CB0-4E65-89F0-9024678879A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstoqueApp.Infra.Data.MongoDB", "EstoqueApp.Infra.Data.MongoDB\EstoqueApp.Infra.Data.MongoDB.csproj", "{3FFCE471-3CB0-4E65-89F0-9024678879A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TDD", "TDD", "{5FBAF4B3-D27C-41EC-80D6-C3173FDFC567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstoqueApp.Tests", "EstoqueApp.Tests\EstoqueApp.Tests.csproj", "{3AFA7D6B-1735-4CAE-ADDB-C186DA33E352}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +53,10 @@ Global
 		{3FFCE471-3CB0-4E65-89F0-9024678879A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FFCE471-3CB0-4E65-89F0-9024678879A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FFCE471-3CB0-4E65-89F0-9024678879A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AFA7D6B-1735-4CAE-ADDB-C186DA33E352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AFA7D6B-1735-4CAE-ADDB-C186DA33E352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AFA7D6B-1735-4CAE-ADDB-C186DA33E352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AFA7D6B-1735-4CAE-ADDB-C186DA33E352}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +70,7 @@ Global
 		{7006AB63-B081-4B9B-9541-8B36487F203A} = {1FE81CB0-78CB-4DD7-8F91-4C02842C5F9B}
 		{37F9B17B-E583-4D86-A511-E760C7E9BA7D} = {1525CFD9-F3D9-43FB-B640-64D467DD375E}
 		{3FFCE471-3CB0-4E65-89F0-9024678879A2} = {1525CFD9-F3D9-43FB-B640-64D467DD375E}
+		{3AFA7D6B-1735-4CAE-ADDB-C186DA33E352} = {5FBAF4B3-D27C-41EC-80D6-C3173FDFC567}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C245D4A2-322B-4EB4-B697-E45450F367F0}

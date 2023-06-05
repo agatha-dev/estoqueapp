@@ -8,6 +8,7 @@ builder.Services.AddSwaggerDoc();
 builder.Services.AddCorsPolicy();
 builder.Services.AddEntityFramework(builder.Configuration);
 builder.Services.AddServices(builder.Configuration);
+builder.Services.AddAutoMapperProfiles();
 builder.Services.AddMediatR();
 
 var app = builder.Build();
@@ -19,3 +20,5 @@ app.MapControllers();
 
 app.Run();
 
+
+public partial class Program { }

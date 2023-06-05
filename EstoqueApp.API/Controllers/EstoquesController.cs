@@ -49,7 +49,7 @@ namespace EstoqueApp.API.Controllers
         [ProducesResponseType(typeof(EstoqueQuery), 200)]
         public IActionResult GetById(Guid? id)
         {
-            return StatusCode(201, _estoqueAppService.GetById(id));
+            return StatusCode(200, _estoqueAppService.GetById(id));
         }
     }
 }

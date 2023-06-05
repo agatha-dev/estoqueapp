@@ -1,0 +1,17 @@
+C:\Infis\fonte\EstoqueApp.API\EstoqueApp.Infra.Data.MongoDB\bin\Debug\net7.0\EstoqueApp.Infra.Data.MongoDB.deps.json
+C:\Infis\fonte\EstoqueApp.API\EstoqueApp.Infra.Data.MongoDB\bin\Debug\net7.0\EstoqueApp.Infra.Data.MongoDB.dll
+C:\Infis\fonte\EstoqueApp.API\EstoqueApp.Infra.Data.MongoDB\bin\Debug\net7.0\EstoqueApp.Infra.Data.MongoDB.pdb
+C:\Infis\fonte\EstoqueApp.API\EstoqueApp.Infra.Data.MongoDB\bin\Debug\net7.0\EstoqueApp.Application.dll
+C:\Infis\fonte\EstoqueApp.API\EstoqueApp.Infra.Data.MongoDB\bin\Debug\net7.0\EstoqueApp.Domain.dll
+C:\Infis\fonte\EstoqueApp.API\EstoqueApp.Infra.Data.MongoDB\bin\Debug\net7.0\EstoqueApp.Application.pdb
+C:\Infis\fonte\EstoqueApp.API\EstoqueApp.Infra.Data.MongoDB\bin\Debug\net7.0\EstoqueApp.Domain.pdb
+C:\Infis\fonte\EstoqueApp.API\EstoqueApp.Infra.Data.MongoDB\obj\Debug\net7.0\EstoqueApp.Infra.Data.MongoDB.csproj.AssemblyReference.cache
+C:\Infis\fonte\EstoqueApp.API\EstoqueApp.Infra.Data.MongoDB\obj\Debug\net7.0\EstoqueApp.Infra.Data.MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Infis\fonte\EstoqueApp.API\EstoqueApp.Infra.Data.MongoDB\obj\Debug\net7.0\EstoqueApp.Infra.Data.MongoDB.AssemblyInfoInputs.cache
+C:\Infis\fonte\EstoqueApp.API\EstoqueApp.Infra.Data.MongoDB\obj\Debug\net7.0\EstoqueApp.Infra.Data.MongoDB.AssemblyInfo.cs
+C:\Infis\fonte\EstoqueApp.API\EstoqueApp.Infra.Data.MongoDB\obj\Debug\net7.0\EstoqueApp.Infra.Data.MongoDB.csproj.CoreCompileInputs.cache
+C:\Infis\fonte\EstoqueApp.API\EstoqueApp.Infra.Data.MongoDB\obj\Debug\net7.0\EstoqueApp.Infra.Data.MongoDB.csproj.CopyComplete
+C:\Infis\fonte\EstoqueApp.API\EstoqueApp.Infra.Data.MongoDB\obj\Debug\net7.0\EstoqueApp.Infra.Data.MongoDB.dll
+C:\Infis\fonte\EstoqueApp.API\EstoqueApp.Infra.Data.MongoDB\obj\Debug\net7.0\refint\EstoqueApp.Infra.Data.MongoDB.dll
+C:\Infis\fonte\EstoqueApp.API\EstoqueApp.Infra.Data.MongoDB\obj\Debug\net7.0\EstoqueApp.Infra.Data.MongoDB.pdb
+C:\Infis\fonte\EstoqueApp.API\EstoqueApp.Infra.Data.MongoDB\obj\Debug\net7.0\ref\EstoqueApp.Infra.Data.MongoDB.dll

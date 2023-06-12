@@ -95,3 +95,4 @@ C:\Infis\fonte\EstoqueApp.API\EstoqueApp.API\bin\Debug\net7.0\EstoqueApp.Infra.D
 C:\Infis\fonte\EstoqueApp.API\EstoqueApp.API\bin\Debug\net7.0\EstoqueApp.Infra.Data.SqlServer.dll
 C:\Infis\fonte\EstoqueApp.API\EstoqueApp.API\bin\Debug\net7.0\EstoqueApp.Infra.Data.MongoDB.pdb
 C:\Infis\fonte\EstoqueApp.API\EstoqueApp.API\bin\Debug\net7.0\EstoqueApp.Infra.Data.SqlServer.pdb
+C:\Infis\fonte\EstoqueApp.API\EstoqueApp.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

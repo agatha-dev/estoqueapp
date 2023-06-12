@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "f0JzKQTCerrHh7FLeqETJO12gDu52iWd9RyXKxCz/svcKlc9k+ZYpqryS5Et54WB6pi5MZPNxe6v5D7FVYIK1g==",
+  "dgSpecHash": "Vkko65dJkS/GOetTfZ/0vK0qm16dSFzYxG8+7MZuFm0mysiPxicOwE3mq8u66b6ZFG6cSHiqOpOeOP0NiTjI9A==",
   "success": true,
   "projectFilePath": "C:\\Infis\\fonte\\EstoqueApp.API\\EstoqueApp.Infra.Data.MongoDB\\EstoqueApp.Infra.Data.MongoDB.csproj",
   "expectedPackageFiles": [

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+vM96DNXEj4jO6lz6Xk9PwZ8koGMstjj4J3/mgXRMBxEsroplUpiIIhuepLFycoOnlCwin4vg55SF3sKpHKx2A==",
+  "dgSpecHash": "g4UCrCHss9D/f+wqGozcshwgu0ZzmRiOd0S9ESfztahlazU6L/ViSWduPXWGngAdEwcuk+5sZZgT0HKv9I+iUA==",
   "success": true,
   "projectFilePath": "C:\\Infis\\fonte\\EstoqueApp.API\\EstoqueApp.Infra.Data.SqlServer\\EstoqueApp.Infra.Data.SqlServer.csproj",
   "expectedPackageFiles": [

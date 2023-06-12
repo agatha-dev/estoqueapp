@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "j5MoIYlX+LYShwrNPuXS3He8IirnWRHV/6Y+8oLsP2Mb/LPPb6iKIwd5Y9dWhciE/mbj32K8MFGqjoYprUk8sQ==",
+  "dgSpecHash": "7w5pEMTvVp6iOleTFgPGv3BK8WEfgGvd4s8QOSMoUFSGMPq2yxM5qxaEdaq2R5JpLRZtBju/3W33ceQS8CjiYg==",
   "success": true,
   "projectFilePath": "C:\\Infis\\fonte\\EstoqueApp.API\\EstoqueApp.API\\EstoqueApp.API.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\Infis001079\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\Infis001079\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Infis001079\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\Infis001079\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.5\\microsoft.aspnetcore.authentication.jwtbearer.7.0.5.nupkg.sha512",
     "C:\\Users\\Infis001079\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\Infis001079\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Infis001079\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
